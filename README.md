@@ -1,7 +1,8 @@
-Visualization of World Happiness Report 2021
+#6 Visualization of World Happiness Report 2021
+
 This project is aimed at visualizing the World Happiness Report 2021 using various data science tools and techniques.
 
-Introduction
+4# Introduction
 The World Happiness Report is a landmark survey of the state of global happiness. The report ranks 156 countries by how happy their citizens perceive themselves to be. The rankings are based on a number of factors including economic growth, social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption. The report is released annually by the United Nations.
 
 In this project, we will be visualizing the data from the World Happiness Report 2021 using Python's data science libraries such as Pandas, Matplotlib, and Seaborn. We will create various plots and charts to help understand the data and draw insights from it.
